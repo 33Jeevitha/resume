@@ -1,0 +1,11 @@
+.contact{
+    height: 120px;
+    width: 60%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    grid-template-areas: "one two two"
+    "one two two"
+    "one three three";
+    gap: 1em;
+}
